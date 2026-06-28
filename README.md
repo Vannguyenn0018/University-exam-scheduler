@@ -86,7 +86,6 @@ university-exam-scheduler
 │
 ├── data/
 │   ├── university_exam_management.db
-│   └── schema.sql
 │
 ├── docs/
 │   ├── ERD.png
@@ -180,7 +179,7 @@ Add screenshots of:
 
 ## Author
 
-**Bea**
+**Vannguyenn0018**
 
 Business Data Science Student
 
